@@ -1,0 +1,12 @@
+{
+  "collectionID": "biomes",
+  "collectionName": "Biomes",
+  "category": "place",
+  "isUtility": false,
+  "version": 1,
+  "required": ["utility-nature@2"],
+  "tags": ["nature", "place"],
+  "tables": {
+    "biome": ["biome"]
+  }
+}

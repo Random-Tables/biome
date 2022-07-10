@@ -1,0 +1,42 @@
+{
+  "biome": {
+    "label": "Biome",
+    "tableSections": [
+      {
+        "name": "Terrain:",
+        "table": ["{{utility-nature/geography/terrain:terrain}}"],
+        "type": "simple"
+      },
+      {
+        "name": "Ground:",
+        "table": ["{{utility-nature/geography/ground:ground}}"],
+        "type": "simple"
+      },
+      {
+        "name": "Climate:",
+        "table": ["{{utility-nature/geography/climate:climate}}"],
+        "type": "simple"
+      },
+      {
+        "name": "Weather:",
+        "table": ["{{utility-nature/weather/weather:weather}}"],
+        "type": "simple"
+      },
+      {
+        "name": "Flora:",
+        "table": ["{{utility-nature/flora/plant:verdant trees}}"],
+        "type": "simple"
+      },
+      {
+        "name": "Bug Life:",
+        "table": ["{{utility-nature/fauna/insects:many insects}}"],
+        "type": "simple"
+      },
+      {
+        "name": "Creatures:",
+        "table": ["{{utility-nature/fauna/mid:many creatures}}"],
+        "type": "simple"
+      }
+    ]
+  }
+}
