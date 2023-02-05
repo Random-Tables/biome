@@ -3,7 +3,7 @@
   "collectionName": "Biomes",
   "category": "place",
   "isUtility": false,
-  "version": 1,
+  "version": 2,
   "required": ["utility-nature@2"],
   "tags": ["nature", "place"],
   "tables": {
